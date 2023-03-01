@@ -1,0 +1,17 @@
+/Alien.class
+/BlindAlien.class
+/Player.class
+/TimeWastingAlien.class
+/BuildModeModel.class
+/Building.class
+/ImagesModel.class
+/LoginModel.class
+/Object.class
+/SignUpModel.class
+/ObjectHandler.class
+/Entity.class
+/PlayerMovementKeyHandler.class
+/Tile_Object_Handler.class
+/Door.class
+/PlayerSearchKeyHandler.class
+/PlayerMouseActionHandler.class
